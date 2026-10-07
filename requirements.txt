@@ -1,0 +1,8 @@
+selenium
+pytest
+webdriver-manager
+pytest-html
+schedule
+smtplib
+requests
+humanize
